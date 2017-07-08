@@ -6,11 +6,11 @@
 	<array>
 		<dict>
 			<key>ipad_image_portrait</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide1-ipad-portrait@2x.png?raw=true</string>
+			<string>https://github.com/joshuacleetus/Spiralized/blob/master/images/SpiralizedBanneriPadPortrait%402x.jpg?raw=true</string>
 			<key>ipad_image_landscape</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide1-ipad-landscape@2x.png?raw=true</string>
+			<string></string>
 			<key>iphone_image</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide1-iphone@2x.png?raw=true</string>
+			<string>https://github.com/joshuacleetus/Spiralized/blob/master/images/SpiralizedBanneriPhone%402x.jpg?raw=true</string>
 			<key>action</key>
 			<dict>
 				<key>actionIdentifier</key>
@@ -21,11 +21,11 @@
 		</dict>
 		<dict>
 			<key>ipad_image_portrait</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide3-ipad-portrait@2x.png?raw=true</string>
+			<string></string>
 			<key>ipad_image_landscape</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide3-ipad-landscape@2x.png?raw=true</string>
+			<string></string>
 			<key>iphone_image</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/images/slide3-iphone@2x.png?raw=true</string>
+			<string></string>
 			<key>action</key>
 			<dict>
 				<key>actionIdentifier</key>
@@ -36,7 +36,7 @@
 		</dict>
 	</array>
 	<key>App_Title</key>
-	<string>Spiralized</string>
+	<string>Spiralized Magazine</string>
 	<key>publications</key>
 	<array>
 		<dict>
@@ -49,9 +49,9 @@
 			<key>description</key>
 			<string>Open-minded and deliciously entertaining.</string>
 			<key>coverURL</key>
-			<string>https://github.com/t0rn/PublisherDemo</string>
+			<string>https://github.com/joshuacleetus/Spiralized/blob/master/images/SpiralizedCover.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string>https://github.com/t0rn/PublisherDemoFiles/blob/master/PDF/Retrospective.pdf?raw=true</string>
+			<string>https://github.com/joshuacleetus/Spiralized/blob/master/PDF/SpiralizedMag.pdf?raw=true</string>
 		</dict>
 	</array>
 </dict>
