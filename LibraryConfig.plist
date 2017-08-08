@@ -61,11 +61,11 @@
 			<key>title</key>
 			<string>Kickin' In</string>
 			<key>description</key>
-			<string></string>
+			<string>Sample</string>
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/BuySpiralized.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string></string>
+			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/SpiralizedMag.pdf?raw=true</string>
 		</dict>
 	</array>
 </dict>
