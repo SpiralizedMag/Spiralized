@@ -59,11 +59,11 @@
 			<key>date</key>
 			<date>2017-05-15T12:34:39Z</date>
 			<key>title</key>
-			<string>Kickin' In</string>
+			<string>Fall 2017</string>
 			<key>description</key>
-			<string>Sample</string>
+			<string>Open-minded and deliciously entertaining.</string>
 			<key>coverURL</key>
-			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/BuySpiralized.jpg?raw=true</string>
+			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/SpiralizedCover.jpg?raw=true</string>
 			<key>fileURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/SpiralizedMag.pdf?raw=true</string>
 		</dict>
