@@ -61,7 +61,7 @@
 			<key>title</key>
 			<string>Kickin' In</string>
 			<key>description</key>
-			<string>1-year subscription available, automatically renewed until cancelled after 1-year trial. You can turn off auto-renewal at any time from your iTunes account settings.</string>
+			<string>1-year subscription available, automatically renewed until cancelled after 1-year trial.</string>
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/BuySpiralized.jpg?raw=true</string>
 			<key>fileURL</key>
