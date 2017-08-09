@@ -73,11 +73,11 @@
 			<key>date</key>
 			<date>2017-05-15T12:34:39Z</date>
 			<key>title</key>
-			<string>Privacy + Terms</string>
+			<string>Terms</string>
 			<key>description</key>
 			<string>Privacy Policy and Terms of Use</string>
 			<key>coverURL</key>
-			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/Privacy%20Policy%20%2B%20Terms%20of%20Use%20(1).pdf?raw=true</string>
+			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/Privacy.jpg?raw=true</string>
 			<key>fileURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/Privacy_Terms%20of%20Use.pdf?raw=true</string>
 		</dict>
