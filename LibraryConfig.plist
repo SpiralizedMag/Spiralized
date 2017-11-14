@@ -43,11 +43,25 @@
 			<key>productId</key>
 			<string></string>
 			<key>date</key>
+			<date>2017-11-15T12:34:39Z</date>
+			<key>title</key>
+			<string>Winter 2017</string>
+			<key>description</key>
+			<string>Grey Skies and Colorful Pies.</string>
+			<key>coverURL</key>
+			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/Cover_Winter_17.jpg?raw=true</string>
+			<key>fileURL</key>
+			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/Spiralized_Winter_2017_op.pdf?raw=true</string>
+		</dict>
+		<dict>
+			<key>productId</key>
+			<string></string>
+			<key>date</key>
 			<date>2017-05-15T12:34:39Z</date>
 			<key>title</key>
 			<string>Fall 2017</string>
 			<key>description</key>
-			<string>Open-minded and deliciously entertaining.</string>
+			<string>Cool temps with comfy fall meals.</string>
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/SpiralizedCover.jpg?raw=true</string>
 			<key>fileURL</key>
