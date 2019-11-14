@@ -43,6 +43,20 @@
 			<key>productId</key>
 			<string></string>
 			<key>date</key>
+			<date>2019-11-13T12:34:39Z</date>
+			<key>title</key>
+			<string>Winter 2019 Mega Issue</string>
+			<key>description</key>
+			<string>Tasty Merger</string>
+			<key>coverURL</key>
+			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/Cover_Winter_19.jpg?raw=true</string>
+			<key>fileURL</key>
+			<string></string>
+		</dict>
+		<dict>
+			<key>productId</key>
+			<string></string>
+			<key>date</key>
 			<date>2019-08-13T12:34:39Z</date>
 			<key>title</key>
 			<string>Fall 2019</string>
@@ -65,7 +79,7 @@
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/Cover_Summer_19@.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/Spiralized_Summer_2019_opt.pdf?raw=true</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>productId</key>
@@ -79,7 +93,7 @@
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/Cover_Spring_19.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/Spiralized_Spring_2019_opt.pdf?raw=true</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>productId</key>
@@ -93,7 +107,7 @@
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/Cover_Winter_18.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/Spiralized_Winter_2018_opt.pdf?raw=true</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>productId</key>
@@ -107,7 +121,7 @@
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/Cover_Fall_18.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/Spiralized_Fall_2018_opt.pdf?raw=true</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>productId</key>
@@ -121,7 +135,7 @@
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/Cover_Summer_18.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/Spiralized_Summer_2018_opt.pdf?raw=true</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>productId</key>
@@ -135,7 +149,7 @@
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/Cover_Spring_18.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/Spiralized_Spring_2018_opt.pdf?raw=true</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>productId</key>
@@ -149,7 +163,7 @@
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/Cover_Winter_17.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/Spiralized_Winter_2017_opt.pdf?raw=true</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>productId</key>
@@ -163,7 +177,7 @@
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/SpiralizedCover.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/SpiralizedMag.pdf?raw=true</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>productId</key>
@@ -177,7 +191,7 @@
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/BuySpiralized.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/ThankYou.pdf?raw=true</string>
+			<string></string>
 		</dict>
 		<dict>
 			<key>productId</key>
@@ -191,7 +205,7 @@
 			<key>coverURL</key>
 			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/images/Privacy.jpg?raw=true</string>
 			<key>fileURL</key>
-			<string>https://github.com/SpiralizedMag/Spiralized/blob/master/PDF/Privacy_Terms%20of%20Use.pdf?raw=true</string>
+			<string></string>
 		</dict>
 	</array>
 </dict>
